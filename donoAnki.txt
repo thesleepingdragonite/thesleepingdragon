@@ -1,0 +1,16 @@
+These Anki decks belong to: i2i-immune2immunology
+(https://immun3.github.io/i2i). These cards/decks
+are provided under the GPL-3.0 open-source license
+and made publicly available in the spirit of open access.
+If you spot any potential errors in the information provided,
+please do not hesitate to reach out: i2i.immuno@gmail.com.
+
+A special thanks to the following awesome individuals who contributed
+their decks for others to enjoy:
+
+	- Garret Williford
+
+
+Thank you for your support!
+
+~PLT.

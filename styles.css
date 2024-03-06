@@ -1,0 +1,125 @@
+html {
+    background-color: #FAE8CD;
+
+    background-image:
+    url(images/neutralAbs1_shrunk.png), 
+    url(images/neutralAbs1_shrunk.png);
+    background-position: left top, right top;
+    background-repeat: repeat-y, repeat-y;
+
+    margin-top: 30px;
+}
+
+head {
+    
+}
+
+title {
+
+}
+
+body {
+    
+}
+
+h1 {
+    text-align: center;
+
+    margin-left: 55px;
+    margin-right: 55px;
+}
+h2 {
+    background-color: #C74029;
+    border: 5px solid #385052;
+
+    margin-left: 55px;
+    margin-right: 55px;
+}
+h3 {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+p {
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+blockquote {
+    margin-left: 65px;
+    margin-right: 55px;
+}
+
+img {
+
+}
+
+button {
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+table, th, td, tr {
+    border: 1px solid black;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+* {
+    box-sizing: border-box;
+}
+            /* Style the header */
+header {
+    background-color: #385052;
+    margin-left: 55px;
+    margin-right: 55px;
+    text-align: center;
+    font-size: 20px;
+    color: whitesmoke;
+}
+/* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+/* Style the navigation menu */
+nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #F0AD44;
+    border: 5px solid #385052;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+/* Style the list inside the menu */
+nav ul {
+    list-style-type: none;
+    font-size: 20px;
+}
+/* Style the content */
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #128085;
+    border: 5px solid #F0AD44;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+/* Style the footer */
+footer {
+    background-color: #385052;
+    margin-left: 55px;
+    margin-right: 55px;
+    text-align: center;
+    color: whitesmoke;
+}
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    section {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+}
