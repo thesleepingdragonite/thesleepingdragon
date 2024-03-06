@@ -1,0 +1,67 @@
+primary immunodeficiency can be caused by:
+    genetic mutation
+    epigenetic mutation
+    ...
+secondary immunodeficiency can be caused by:
+    exposure to external agent
+    infection
+    physical trauma
+    ...
+immunosuppressive drugs can treat/prevent graft rejection but...
+    leave patient vulnerable to opportunistic infections
+
+IgE NOT assoc. w/:
+    allergy
+    phylaxis*
+    hypersensitivity
+    histamines
+
+Treg knockout mice most likely:
+    suffer from Type II diabetes
+    ...
+    allergic to cheese*
+    ...
+
+TCR stimulation can MOST DIRECTLY result in:
+    inactivation of autoreactive CTLs*
+    production of cytotoxic granules in CTLs*
+    antibody secretion
+    NK cell activation
+
+Tregs that are NOT activated towards clonal expansion by IL-2 binding:
+    TR1
+    Th3
+    CD4+CD25+ Tregs*
+    CD8+ Tregs
+
+anergic T cells can be reactivated by:
+    ...
+    B7-CD28 costimulation
+    Fas/FasL interaction
+    ...
+    none of the above*
+
+assoc. receptors DONT have a rel. LARGE gene germline repertoire:
+    B cells
+    alpha-beta T cells
+    ...
+    gamma-delta T cells*
+    NK cells*
+
+which are false:
+    twice as many CD8+ T cells than CD4+ in peripheral blood*
+    twice as many CD4+ T cells than neutrophils in periph. blood*
+    half as many gamma-delta T cells than alpha-beta
+    half as many CD8+ T cells than CD4+ in periph. blood
+
+whose responsibility is it to safeguard against autoimmunity?
+    B cells
+    T cells*
+    NK cells
+    ...
+
+which TCR-CD3 complex component does NOT have assoc. ITAMs?
+    zeta-zeta TCR
+    alpha-beta TCR*
+    gamma-epsilon CD3
+    delta-epsilon CD3
