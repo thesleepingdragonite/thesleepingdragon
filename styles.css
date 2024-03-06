@@ -1,9 +1,13 @@
 html {
-    background-color: #FAE8CD;
+    /* background-color: #70917a; */
+    background-color: #1E6B52 ;
+    color: whitesmoke;
 
     background-image:
-    url(images/neutralAbs1_shrunk.png), 
-    url(images/neutralAbs1_shrunk.png);
+    /* url(images/neutralAbs1_shrunk.png), 
+    url(images/neutralAbs1_shrunk.png); */
+    url(images/tsd_logo_shrunk.png), 
+    url(images/tsd_logo_shrunk.png);
     background-position: left top, right top;
     background-repeat: repeat-y, repeat-y;
 
@@ -29,8 +33,9 @@ h1 {
     margin-right: 55px;
 }
 h2 {
-    background-color: #C74029;
-    border: 5px solid #385052;
+    background-color: #FFD602;
+    border: 5px solid #1E6B52;
+    color: black;
 
     margin-left: 55px;
     margin-right: 55px;
@@ -69,7 +74,7 @@ table, th, td, tr {
 }
             /* Style the header */
 header {
-    background-color: #385052;
+    background-color: #144B39 ;
     margin-left: 55px;
     margin-right: 55px;
     text-align: center;
@@ -86,8 +91,8 @@ nav {
     -webkit-flex: 1;
     -ms-flex: 1;
     flex: 1;
-    background: #F0AD44;
-    border: 5px solid #385052;
+    background: #A69363;
+    border: 5px solid #144B39;
     margin-left: 55px;
     margin-right: 55px;
 }
@@ -101,8 +106,8 @@ article {
     -webkit-flex: 3;
     -ms-flex: 3;
     flex: 3;
-    background-color: #128085;
-    border: 5px solid #F0AD44;
+    background-color: #144B39;
+    border: 5px solid #FFD602;
     color: whitesmoke;
     font-size: 20px;
     margin-left: 55px;
@@ -110,7 +115,7 @@ article {
 }
 /* Style the footer */
 footer {
-    background-color: #385052;
+    background-color: #144B39;
     margin-left: 55px;
     margin-right: 55px;
     text-align: center;
